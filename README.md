@@ -19,14 +19,14 @@ A from-scratch, high-performance wireless split keyboard designed for ergonomic 
 <img width="360" height="618" alt="3D View Kicad Side" src="https://github.com/user-attachments/assets/ff27c897-d8ac-482e-bf3a-dd71f3ae9158" />
 
 ## Firmware
-This project uses ZMK Firmware, a proactive wireless firmware for keyboards that provides incredible battery life and low latency.
+This keyboard runs on **CircuitPython** using the **Adafruit HID library**. Unlike compiled firmware, you can edit your keymap by simply modifying the **code.py** file directly on the keyboard's internal storage.
 
-### Key Features
-**Full Wireless Support:** Bluetooth LE connectivity for both halves.
+#### Libraries
+To run this firmware, you need the following libraries in your /lib folder:
 
-**XIAO Sense Integration:** Using the Seeed XIAO nRF52840 Sense.
+**adafruit_hid** (For Keyboard and Consumer Control support)
 
-**ZMK Studio:** (Optional) Compatible with real-time keymap editing.
+**adafruit_ble** (For wireless Bluetooth connectivity)
 
 ## BOM
 (note that this is where I purchased from, some websites are local-only)
