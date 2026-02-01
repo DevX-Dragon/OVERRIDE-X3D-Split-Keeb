@@ -3,7 +3,7 @@
 ![HID](https://img.shields.io/badge/Library-Adafruit_HID-orange)
 
 # OVERRIDE-X3D Split Keeb
-A from-scratch, high-performance wireless split keyboard designed for ergonomic uses.
+A split keyboard from-scratch, high-performance wireless split keyboard designed for ergonomic uses.
 <img width="1080" height="720" alt="both assembled " src="https://github.com/user-attachments/assets/38dfcb27-00a7-43d1-adf9-099054c9cb3b" />
 
 ## Layout
