@@ -1,3 +1,7 @@
+![Hardware](https://img.shields.io/badge/Hardware-Seeed_XIAO_nRF52840_Sense-blue)
+![Firmware](https://img.shields.io/badge/Firmware-CircuitPython-red)
+![HID](https://img.shields.io/badge/Library-Adafruit_HID-orange)
+
 # OVERRIDE-X3D Split Keeb
 A from-scratch, high-performance wireless split keyboard designed for ergonomic uses.
 <img width="1080" height="720" alt="both assembled " src="https://github.com/user-attachments/assets/38dfcb27-00a7-43d1-adf9-099054c9cb3b" />
@@ -41,3 +45,10 @@ To run this firmware, you need the following libraries in your /lib folder:
 | 800mAh 3.7V 501845P Battery | 2 | [Link](https://www.duino.lk/product/800mah-3-7v-501845p-lipo-battery/) | $3.00 |
 | Seed Studio Seeed XIAO-nRF52840-Sense | 2 | [Link](https://www.aliexpress.com/item/1005007426899386.html) | $43.12 |
 | **Total** | | | **$73.45** |
+
+## Support
+I would love getting financially supported as most of my projects cost alot of money here in Sri Lanka. Even a 1$ is great!
+
+<a href="https://www.buymeacoffee.com/abbadh">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+</a>
