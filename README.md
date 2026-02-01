@@ -18,6 +18,16 @@ A from-scratch, high-performance wireless split keyboard designed for ergonomic 
 <img width="360" height="618" alt="3D View Kicad Back" src="https://github.com/user-attachments/assets/f3509d29-092d-4412-8c52-93defcf7a768" />
 <img width="360" height="618" alt="3D View Kicad Side" src="https://github.com/user-attachments/assets/ff27c897-d8ac-482e-bf3a-dd71f3ae9158" />
 
+## Firmware
+This project uses ZMK Firmware, a proactive wireless firmware for keyboards that provides incredible battery life and low latency.
+
+### Key Features
+**Full Wireless Support:** Bluetooth LE connectivity for both halves.
+
+**XIAO Sense Integration:** Using the Seeed XIAO nRF52840 Sense.
+
+**ZMK Studio:** (Optional) Compatible with real-time keymap editing.
+
 ## BOM
 (note that this is where I purchased from, some websites are local-only)
 | Product Name | Quantity | Source Link | Price |
