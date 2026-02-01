@@ -29,7 +29,7 @@ To run this firmware, you need the following libraries in your /lib folder:
 **adafruit_ble** (For wireless Bluetooth connectivity)
 
 ## BOM
-(note that this is where I purchased from, some websites are local-only)
+(note that this is where I purchased from, and some are bought in higher quanities then needed for cheaper prices and some websites are local-only)
 | Product Name | Quantity | Source Link | Price |
 | :--- | :--- | :--- | :--- |
 | 1N4148 | 42 | [Link](https://www.duino.lk/product/x-1n4148-diode-in4148-4148-switching-diode/) | $0.60 |
