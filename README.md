@@ -18,3 +18,16 @@ A from-scratch, high-performance wireless split keyboard designed for ergonomic 
 <img width="360" height="618" alt="3D View Kicad Back" src="https://github.com/user-attachments/assets/f3509d29-092d-4412-8c52-93defcf7a768" />
 <img width="360" height="618" alt="3D View Kicad Side" src="https://github.com/user-attachments/assets/ff27c897-d8ac-482e-bf3a-dd71f3ae9158" />
 
+## BOM
+(note that this is where I purchased from, some websites are local-only)
+| Product Name | Quantity | Source Link | Price |
+| :--- | :--- | :--- | :--- |
+| 1N4148 | 42 | [Link](https://www.duino.lk/product/x-1n4148-diode-in4148-4148-switching-diode/) | $0.60 |
+| SK6812 MINI-E | 8 | [Link](http://www.aliexpress.com/item/1005008308801366.html) | $1.56 |
+| 820K Ohms THT Resistor | 2 | [Link](https://www.duino.lk/product/820k-ohm-1-4w-820k-5-carbon-film-resistor/) | $0.30 |
+| 1M Ohms THT Ressitor | 4 | [Link](https://www.duino.lk/product/1m-ohm-1-4w-1m-5-carbon-film-resistor/) | $0.30 |
+| OUTEMU Red Switches | 42 | [Link](https://share.temu.com/CwgZ9XWDBxB) | $13.74 |
+| Milk Theme XDA Key Caps | 42 | [Link](https://www.aliexpress.com/item/1005009136116760.html) | $10.83 |
+| 800mAh 3.7V 501845P Battery | 2 | [Link](https://www.duino.lk/product/800mah-3-7v-501845p-lipo-battery/) | $3.00 |
+| Seed Studio Seeed XIAO-nRF52840-Sense | 2 | [Link](https://www.aliexpress.com/item/1005007426899386.html) | $43.12 |
+| **Total** | | | **$73.45** |
