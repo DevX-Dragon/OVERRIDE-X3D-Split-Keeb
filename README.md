@@ -46,6 +46,8 @@ To run this firmware, you need the following libraries in your /lib folder:
 | Seed Studio Seeed XIAO-nRF52840-Sense | 2 | [Link](https://www.aliexpress.com/item/1005007426899386.html) | $43.12 |
 | **Total** | | | **$73.45** |
 
+> The reason for using the Seed Studio Seeed XIAO-nRF52840-Sense is becuase thats the only compact MCU which has enough pins for this. The esp32-s3 is another alternative but doesnt have pins to control the LEDs. So I had to go with this. There are no other MCU thats fits in the same size and have the same amount of pins.
+
 ## Support
 I would love getting financially supported as most of my projects cost alot of money here in Sri Lanka. Even a 1$ is great!
 
