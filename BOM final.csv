@@ -1,0 +1,15 @@
+﻿Product Name,Quanity,Source Link,Price, Additional Notes
+1N4148 ,42,https://www.duino.lk/product/x-1n4148-diode-in4148-4148-switching-diode/,$0.60,switching diodes ig
+SK6812 MINI-E,8,www.aliexpress.com/item/1005008308801366.html,$1.56, I wasn’t able to find anything on TEMU so had to switch to Alie  (MOQ - 20)
+820K Ohms THT Resistor,2,https://www.duino.lk/product/820k-ohm-1-4w-820k-5-carbon-film-resistor/,$0.30,wasn't able to find the specific 806K so went with the 820K
+1M Ohms THT Ressitor,4,https://www.duino.lk/product/1m-ohm-1-4w-1m-5-carbon-film-resistor/,$0.30,couldn’t find 2m ohms so got x2 1m and solder them paral
+OUTEMU Red Switches,42,https://share.temu.com/CwgZ9XWDBxB,$13.74,I have searched for the cheapest ones and this one has the best value even though its 70 pcs
+Milk Theme XDA Key Caps,42,https://www.aliexpress.com/item/1005009136116760.html,$10.83,"I didn’t find XDA keycaps for cheap price on TEMU, so had to go with a set on Alie"
+800mAh 3.7V 501845P Battery,2,https://www.duino.lk/product/800mah-3-7v-501845p-lipo-battery/,$3.00,I have gone local for this as this will be cheaper
+Seed Studio Seeed XIAO-nRF52840-Sense,2,https://www.aliexpress.com/item/1005007426899386.html,$43.12,I specifically need this module cause I have wired the LEDS to the NFC pin. Its possible to unlock those pins as GPIOs
+PCB,5,https://jlcpcb.com/,$35.00,
+3D Printed Cases,2,https://duino.lk/,$5.00,
+,,Shipping Fees (all combined),$2.00,
+,,Taxes of Aliexpress,$15.00,
+,,Forex Change (Prediction),$5.00,
+,,Total,$135.45,
